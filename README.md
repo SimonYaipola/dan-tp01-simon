@@ -69,6 +69,6 @@ Exécution :
 mvn exec:java
 Auteur
 
-Simon
+Simon-Pier Larouche
 Technique de l’informatique
 Cégep de la Gaspésie et des Îles
