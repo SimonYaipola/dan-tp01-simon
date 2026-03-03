@@ -5,6 +5,7 @@
 /target/
 build/
 out/
+data/
 
 #################################################
 #Fichiers de configuration sensibles
